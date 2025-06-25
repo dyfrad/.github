@@ -1,6 +1,6 @@
 # About us
 
-Dyfrad is an applied research lab with deep expertise in physics, data science, AI/ML engineering, and software engineering. We build cool finance and robotics projects.
+Dyfrad is an applied research lab with deep expertise in physics, data science, AI/ML engineering, and software engineering.
 
 ## Current project
 Aim: Develop an AI-first personal finance management platform that
