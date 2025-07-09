@@ -1,6 +1,6 @@
 # About us
 
-Dyfrad is an applied research lab with deep expertise in physics, data & analytics, AI engineering, ML engineering, and software engineering. Current field of interest: finance.
+Dyfrad is an applied research lab with physics, data science, and machine learning expertise. Current field of interest: finance.
 
 ## Current project
 Developing an AI-powered personal finance management platform that
