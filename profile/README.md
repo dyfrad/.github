@@ -20,5 +20,5 @@ An AI-powered personal finance management platform that
 * provides a unified platform to manage investment in several countries
 * provides personalised financial advice using advanced analytics and AI
 
-Closed to focus on Portfolio Simulator. Recommended: https://github.com/maybe-finance/maybe, which does most of these, works locally on a computer, and is open-source.
+Closed to focus on Portfolio Simulator. Recommended: https://github.com/maybe-finance/maybe, which does most of these, is open-source, and works locally on a computer.
 
