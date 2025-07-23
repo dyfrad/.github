@@ -21,4 +21,5 @@ An AI-powered personal finance management platform that
 Closed to focus on Portfolio Simulator. Recommended: https://github.com/maybe-finance/maybe, which does most of these, is open-source, and works locally on a computer.
 
 ## Resources we admire and recommend
-- Projects by [Jeroen Bouma](https://github.com/JerBouma)   
+- Finance: 
+  - projects by [Jeroen Bouma](https://github.com/JerBouma)   
