@@ -15,6 +15,7 @@ An AI-powered personal finance management platform that
 * provides a unified platform to manage investment in several countries
 * provides personalised financial advice using advanced analytics and AI
 
-## Resources I admire and recommend
-- Finance: 
-  - projects by [Jeroen Bouma](https://github.com/JerBouma)   
+## Resources
+- Quantitative Finance: 
+  - projects by [Jeroen Bouma](https://github.com/JerBouma)
+  - [IBKR Quant](https://www.interactivebrokers.com/campus/category/ibkr-quant-news/ibkr-quant-home/)
