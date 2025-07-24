@@ -19,3 +19,5 @@ An AI-powered personal finance management platform that
 - Quantitative Finance: 
   - projects by [Jeroen Bouma](https://github.com/JerBouma)
   - [IBKR Quant](https://www.interactivebrokers.com/campus/category/ibkr-quant-news/ibkr-quant-home/)
+  - [PyQuant News](https://www.pyquantnews.com/)
+  - [QuantScience](https://quantscience.io/)
