@@ -9,12 +9,6 @@ A portfolio simulator that
 * Does Monte Carlo simulations to project returns in the next 1-10 years while taking into account the costs, taxes, inflation, rebalancing, and commonly known stress scenarios.
 * Works on a laptop
 
-## Past projects
-An AI-powered personal finance management platform that
-* tracks expenses and provides spending insights based on users' data and personal information
-* provides a unified platform to manage investment in several countries
-* provides personalised financial advice using advanced analytics and AI
-
 ## Resources
 - Quantitative Finance: 
   - projects by [Jeroen Bouma](https://github.com/JerBouma)
