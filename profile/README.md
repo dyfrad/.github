@@ -1,7 +1,7 @@
 # About 
 An applied research lab with physics expertise and commercial interest in quantitative finance.
 
-## Current projects
+## Current project
 A portfolio simulator that
 * Assumes a passive investor who invests monthly 
 * Reads the existing portfolio and allows to create a custom portfolio within the app
