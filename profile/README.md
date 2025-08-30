@@ -1,5 +1,5 @@
 # About 
-An applied research lab with physics expertise and commercial interest in quantitative finance.
+An applied research lab with commercial interests in physics applications and quantitative finance.
 
 ## Current project
 A portfolio simulator that
