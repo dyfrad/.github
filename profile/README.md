@@ -15,3 +15,5 @@ A portfolio simulator that
   - [IBKR Quant](https://www.interactivebrokers.com/campus/category/ibkr-quant-news/ibkr-quant-home/)
   - [PyQuant News](https://www.pyquantnews.com/)
   - [QuantScience](https://quantscience.io/)
+  - [Code for Machine Learning for Algorithmic Trading, 2nd edition](https://github.com/stefan-jansen/machine-learning-for-trading)
+  - [The repository of "Python for Finance Cookbook" 2nd edition](https://github.com/erykml/Python-for-Finance-Cookbook-2E)
