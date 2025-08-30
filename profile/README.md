@@ -17,3 +17,4 @@ A portfolio simulator that
   - [QuantScience](https://quantscience.io/)
   - [Code for Machine Learning for Algorithmic Trading, 2nd edition](https://github.com/stefan-jansen/machine-learning-for-trading)
   - [The repository of "Python for Finance Cookbook" 2nd edition](https://github.com/erykml/Python-for-Finance-Cookbook-2E)
+  - [A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.](https://github.com/domokane/FinancePy)
