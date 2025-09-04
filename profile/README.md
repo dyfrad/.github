@@ -19,3 +19,45 @@ A portfolio simulator that
   - [The repository of "Python for Finance Cookbook" 2nd edition](https://github.com/erykml/Python-for-Finance-Cookbook-2E)
   - [github.com/domokane/FinancePy:](https://github.com/domokane/FinancePy) A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
   - [github.com/fmilthaler/FundamentalAnalysis:](https://github.com/fmilthaler/FundamentalAnalysis) A program for financial portfolio management, analysis and optimisation.
+  - Check [this](https://www.efinancialcareers.com/news/finance/hedge-funds-with-graduate-training-programmes?stlt=&utm_source=AMS_US_ENG&utm_medium=EM_NW&utm_campaign=JS_EDI_MC&mi_ecmp=GLOBAL_NEWSLETTER_DAILY_MORNING_COFFEE) out for internships.
+  - Check this out for some advice:
+    - [How to get a Quant Job](https://bit.ly/HowToGetAQuantJob)
+    - [How to Become a Quant PM by Henry Booth](https://bit.ly/HowToBecomeAPM)
+    - [How to move to buy side to sell side by Henry Booth](https://bit.ly/HowToMoveSellSide2BuySide)
+  - These should offer some great interview preparation:
+    - [Practical Guide to Quant Finance Interviews](https://bit.ly/3Nc0sdp)
+    - [An Interview Primer for Quants](https://bit.ly/DirksInterviewPrimer)
+  - [Top 100 biggest hedge funds](https://bit.ly/100Funds)
+  - [A list of 25 systematic funds](https://bit.ly/Top25QuantFunds)
+  - YouTube Channels
+    - [Dimitri Bianco](https://www.youtube.com/@DimitriBianco). Quote from Henry Booth: "With a lack of job resources in graduate school, this channel will provide advice on how to break into and develop a fulfilling career in quantitative studies such as quantitative finance, statistics, and computer programming. The goal is to provide honest advice and solutions to career problems instead of the generic advice that many people share. The content on this channel will be derived from my personal experiences and from others who perform at a high level in their industry."
+    - Sentdex (www.youtube.com/user/sentdex) - Offers Python programming tutorials, including finance and trading applications
+  - LinkedIn
+    - [Vivek Viswanathan](https://www.linkedin.com/in/vivek-viswanathan-phd/). Quote from Henry Booth: "He puts out great content on LinkedIn about quant trading, particularly how to break into the industry."
+    - [Christina Qi](https://www.linkedin.com/in/christinaqi/) - talks about HFT.
+    - [Joel Rubano](https://www.linkedin.com/in/joel-rubano-3aa33a15/) Quote from Henry Booth: "Definitely follow. He regularly posts internship opportunities, provides excellent content."
+    - [Giuseppe Paleologo](https://www.linkedin.com/in/gappy/)
+  - Books
+    - "Quantitative Trading" by Ernie Chan
+    - "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan
+    - "Options, Futures, and Other Derivatives" by John C. Hull
+    - "The Art of Strategy: A Game Theorist's Guide to Success in Business and Life" by Avinash K. Dixit and Barry J. Nalebuff
+    - "Machine Learning for Algorithmic Trading" by Stefan Jansen. Quote from Henry Booth: "This book provides an introduction to machine learning for algorithmic trading. It covers the basics of machine learning and how to apply it to trading problems."
+    - "High-Frequency Trading" by Thomas H. Mastrobuoni. Quote from Henry Booth: "This book provides an in-depth look at high-frequency trading, one of the most cutting-edge areas of quantitative trading. It covers the strategies high-frequency traders use, the technology they use, and the regulatory challenges they face."
+  - Online courses:
+    - Coursera: "Machine Learning for Trading" by Georgia Institute of Technology
+    - Coursera: "Python for Finance" by the University of Michigan
+    - Coursera: "Financial Engineering and Risk Management" by Columbia University
+    - edX: "Quantitative Methods for Finance Professional Certificate" by the University of Washington
+    - Udemy: "Algorithmic Trading & Quantitative Analysis using Python"
+  - Websites and blogs:
+    - [QuantStart](www.quantstart.com) - Offers articles and tutorials on algorithmic trading, quantitative finance, and data science.
+    - [Quantopian](www.quantopian.com) - Provides an educational platform for algorithmic trading, including lectures, coding challenges, and competitions.
+    - [Quantocracy](www.quantocracy.com) - A curated blog aggregator for quant trading research and strategy
+    - [QuantLink by Henry Booth](https://www.quantlink.co.uk/) About: "Recruitment of quantitative research and portfolio managers into hedge funds, prop shops and family offices. Covering Data Scientists, Ai researchers and machine learning engineers."
+  - Coding practice:
+    - [HackerRank](www.hackerrank.com) - Provides a platform for practising coding skills and participating in coding competitions
+
+Credits:
+The following people have contributed to this list of resources directly or indirectly 
+  - [Henry Booth](https://www.linkedin.com/in/henry-booth-quantheadhunter/)
