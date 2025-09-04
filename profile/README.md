@@ -59,5 +59,6 @@ A portfolio simulator that
     - [HackerRank](www.hackerrank.com) - Provides a platform for practising coding skills and participating in coding competitions
 
 Credits:
+
 The following people have contributed to this list of resources directly or indirectly 
   - [Henry Booth](https://www.linkedin.com/in/henry-booth-quantheadhunter/)
