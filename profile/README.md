@@ -1,7 +1,7 @@
 # About 
 An applied research lab with commercial interests in physics applications and quantitative finance.
 
-## Current project
+# Current project
 A portfolio simulator that
 * Assumes a passive investor who invests monthly 
 * Reads the existing portfolio and allows to create a custom portfolio within the app
@@ -9,7 +9,7 @@ A portfolio simulator that
 * Does Monte Carlo simulations to project returns in the next 1-10 years while taking into account the costs, taxes, inflation, rebalancing, and commonly known stress scenarios.
 * Works on a laptop
 
-## Resources
+# Resources
 - Quantitative Finance: 
   - projects by [Jeroen Bouma](https://github.com/JerBouma)
   - [IBKR Quant](https://www.interactivebrokers.com/campus/category/ibkr-quant-news/ibkr-quant-home/)
