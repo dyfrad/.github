@@ -2,4 +2,4 @@
 
 ## Mars
 - [SpaceX](https://www.spacex.com/humanspaceflight/mars)
-- [NASA](https://science.nasa.gov/planetary-science/programs/mars-exploration/)
+- [NASA](https://www.nasa.gov/humans-in-space/humans-to-mars/)
