@@ -1,5 +1,5 @@
 # About 
-An applied research lab with commercial interests in physics applications and quantitative finance.
+An applied research lab specializing in physics and its applications.
 
 # Resources
 - [Physics](physics_resources.md)
