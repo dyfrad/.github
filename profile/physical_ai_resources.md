@@ -6,6 +6,7 @@
 - [NVIDIA Robotics Research](https://www.nvidia.com/en-us/research/robotics/)
 
 ## General
+- [NVIDIA Developer](https://developer.nvidia.com/)
 - Making most of AI tools
     - Anthropic Academy: [anthropic.com/learn](https://www.anthropic.com/learn)
     - Anthropic Docs, Build with Claude: [docs.anthropic.com](https://docs.anthropic.com/en/home)
