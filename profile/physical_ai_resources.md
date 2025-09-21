@@ -2,6 +2,8 @@
 
 ## Robotics
 - [LeRobot](https://github.com/huggingface/lerobot)
+- [NVIDIA: AI for Robotics](https://www.nvidia.com/en-us/industries/robotics/)
+- [NVIDIA Robotics Research](https://www.nvidia.com/en-us/research/robotics/)
 
 ## General
 - Making most of AI tools
