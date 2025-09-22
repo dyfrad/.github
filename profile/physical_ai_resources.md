@@ -1,9 +1,13 @@
 # Physical AI Resources
 
+## Physics AI
+- [NVIDIA PhysicsNeMo](https://github.com/NVIDIA/physicsnemo)
+
 ## Robotics
 - [LeRobot](https://github.com/huggingface/lerobot)
 - [NVIDIA: AI for Robotics](https://www.nvidia.com/en-us/industries/robotics/)
 - [NVIDIA Robotics Research](https://www.nvidia.com/en-us/research/robotics/)
+- [Unitree Robotics](https://github.com/unitreerobotics)
 
 ## General
 - [NVIDIA Developer](https://developer.nvidia.com/)
